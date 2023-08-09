@@ -1,0 +1,7 @@
+{
+  "realm" : "your_realm",
+  "auth-server-url" : "/auth",
+  "ssl-required" : "external",
+  "resource" : "your_clientId",
+  "public-client" : true
+}
